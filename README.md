@@ -22,7 +22,10 @@ Este proyecto es una aplicación de consola desarrollada en Java que permite rea
 2. Clona el repositorio en tu máquina local.
 3. Importa el proyecto en IntelliJ IDEA.
 4. Asegúrate de que la librería `gson-2.13.2.jar` esté agregada correctamente en las dependencias del proyecto.
-5. Ejecuta la clase `Principal.java`.
+5. Crea un archivo `config.properties` en el paquete `resources` del proyecto.
+6. Añadie tu clave API dentro de `config.properties`. Pega tu clave con el siguiente formato:
+```apiKey =Tu clave gratuita de ExchangeRate-API```
+7. Ejecuta la clase `Principal.java`.
 
 ## 📂 Estructura del Proyecto
 * `com.alura.conversor.modelos`: Clases de datos como `Tasas` e `Historial`.

@@ -15,7 +15,7 @@ Este proyecto es una aplicación de consola desarrollada en Java que permite rea
 ## 🚀 Tecnologías Utilizadas
 * **Java 17:** Uso de las últimas funcionalidades del lenguaje como Records y HttpClient.
 * **Gson:** Biblioteca de Google para la conversión entre objetos Java y archivos JSON.
-* **HttpClient:** Para realizar peticiones asíncronas a la API de tasas de cambio...
+* **HttpClient:** Para realizar peticiones asíncronas a la API de tasas de cambio.
 
 ## 🔑 Configuración e Instalación
 1. Obtén una API Key gratuita en [ExchangeRate-API](https://www.exchangerate-api.com/).

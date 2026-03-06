@@ -13,7 +13,7 @@ Este proyecto es una aplicación de consola desarrollada en Java que permite rea
 * **Historial de Consultas:** Registro de las conversiones realizadas durante la ejecución del programa.
 
 ## 🚀 Tecnologías Utilizadas
-* **Java 21:** Uso de las últimas funcionalidades del lenguaje como Records y HttpClient.
+* **Java 17:** Uso de las últimas funcionalidades del lenguaje como Records y HttpClient.
 * **Gson:** Biblioteca de Google para la conversión entre objetos Java y archivos JSON.
 * **HttpClient:** Para realizar peticiones asíncronas a la API de tasas de cambio.
 
